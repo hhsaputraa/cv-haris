@@ -20,7 +20,7 @@ export const RESUME_DATA = {
       Seorang Ahli dalam Bidang IT , ketertarikan dengan AI dan Pengembangan Perangkat Lunak dan Perangkat Keras anjay
     </>
   ),
-  avatarUrl: "https://pub-970318b1a2ff45d0a5aa7746d743c2a5.r2.dev/pp.jpg",
+  avatarUrl: "https://res.cloudinary.com/dqxwtvshm/image/upload/v1744174107/b5p9ecm2fpzagh4o5p9u.jpg",
   personalWebsiteUrl: "",
   contact: {
     email: "haris@example.com",
