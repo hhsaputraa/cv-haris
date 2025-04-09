@@ -50,7 +50,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Kalbe Consumer Health",
-      link: "https://film.io",
+      link: "https://www.kalbeconsumerhealth.com/",
       badges: ["React", "Next.js", "Golang", "Postgrees"],
       title: "Application Developer",
       logo: ConsultlyLogo,
